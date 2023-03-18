@@ -37,6 +37,54 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```
+Program created by: Vineesh.M
+Register number: 212221230122
+
+```
+## Rotate along x-axis:
+
+```cs
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class updown : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.RotateAround(Vector3.up, Vector3.right, 90 * Time.deltaTime);
+    }
+}
+```
+## Rotate along y-axis:
+```cs
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class name : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.RotateAround(Vector3.right, Vector3.down, 90*Time.deltaTime);
+    }
+}
+```
 
 ## Output:
 
