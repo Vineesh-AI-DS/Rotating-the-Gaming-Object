@@ -88,4 +88,8 @@ public class name : MonoBehaviour
 
 ## Output:
 
+![arvrop](https://user-images.githubusercontent.com/93427254/226115833-a9532ca8-055e-4d5f-a80d-c431103bdec6.png)
+![vrop](https://user-images.githubusercontent.com/93427254/226115835-f523d318-6e8d-4ee3-92b5-5075c125651b.png)
+
 ## Result:
+Thus a 3D application for rotating the gaming objects in unity is developed successfully.
