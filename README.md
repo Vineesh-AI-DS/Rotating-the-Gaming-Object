@@ -40,7 +40,6 @@ Stop
 ```
 Program created by: Vineesh.M
 Register number: 212221230122
-
 ```
 ## Rotate along x-axis:
 
